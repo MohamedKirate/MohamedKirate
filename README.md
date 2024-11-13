@@ -2,6 +2,8 @@
 
 I'm a **Data Scientist** and **Machine Learning Enthusiast** from Morocco. My passion lies in building intelligent systems and models that make meaningful predictions and drive insights. From price predictions to performance analysis, I've tackled a variety of machine learning projects that solve real-world problems.
 
+----
+
 ### About Me
 - 🌍 Based in Morocco, working on exciting **Machine Learning** and **Data Science** projects.
 - 💻 Experienced in developing ML models for feature prediction, such as estimating prices and evaluating performance metrics.
