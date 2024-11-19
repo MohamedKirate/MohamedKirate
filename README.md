@@ -47,8 +47,6 @@ Developed a model to predict laptop prices based on specifications and market tr
 
 ## 📂 Portfolio
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedKirate&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 For more of my work, check out the pinned repositories below or visit my [GitHub profile](https://github.com/MohamedKirate).
 
 ---
