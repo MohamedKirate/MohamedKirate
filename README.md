@@ -14,18 +14,23 @@ Welcome to my GitHub! I'm a **Data Scientist** and **Machine Learning Engineer**
 
 ## 🛠️ Skills
 
-### Languages & Tools
-- **Programming Languages**: Python, SQL
-- **Machine Learning Frameworks**: Scikit-Learn, TensorFlow, XGBoost
-- **Data Visualization**: Matplotlib, Seaborn, Power BI
-- **Big Data & Cloud Platforms**: AWS
-- **MLOps Tools**: Docker, MLflow
+### ⚡ Languages & Tools
 
-### Key Areas of Expertise
+| **Category**                | **Skills**                                                                                                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages**   | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300A98F.svg?style=flat-square&logo=postgresql&logoColor=white) |
+| **Machine Learning Frameworks** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-%23EA542F.svg?style=flat-square&logo=xgboost&logoColor=white) |
+| **Data Visualization**      | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F2B63C.svg?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%236F83C0.svg?style=flat-square&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=power-bi&logoColor=black) |
+| **Big Data & Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)                                                                 |
+| **MLOps Tools**             | ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-%23062D69.svg?style=flat-square&logo=mlflow&logoColor=white) |
+
+### 🌟 Key Areas of Expertise
+
 - **Supervised & Unsupervised Learning**
 - **Natural Language Processing (NLP)**
 - **Deep Learning for Computer Vision and NLP**
 - **Model Deployment and MLOps**
+
 
 ---
 
